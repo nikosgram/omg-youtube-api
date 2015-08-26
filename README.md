@@ -1,2 +1,2 @@
-# youtube-api
+# Youtube API
 This project is a API that provides access to YouTube data, such as videos, playlists, and channels.
